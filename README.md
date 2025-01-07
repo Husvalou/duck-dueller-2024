@@ -16,7 +16,7 @@ Duck Dueller is a free and open-source Hypixel Duels bot, designed to work for F
    What gamemodes are supported?
 </h2>
 
-- ✅ Sumo
+- ✅ Sumo (best)
 - ✅ Classic
 - ✅ Boxing
 - 🚧 OP
@@ -42,7 +42,7 @@ Duck Dueller is a free and open-source Hypixel Duels bot, designed to work for F
 <h2 align="center">
    Are there any known issues?
 </h2>
-This bot is, of course, not perfect. Here is a list of issues I am currently aware of and will eventually fix (these aren't breaking issues):
+This bot is, of course, not perfect.
 
 - Bot dodges players that left the queue
 
