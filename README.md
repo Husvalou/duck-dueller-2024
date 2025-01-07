@@ -49,21 +49,6 @@ This bot is, of course, not perfect. Here is a list of issues I am currently awa
 <h2 align="center">
    Where can I download it?
 </h2>
-
-Right now there is no release JAR file for you to download, this is because I'm still testing the modes I have currently implemented before making a beta release! If you still want to use it, you'll have to download this repo and compile it yourself.
-
-<h2 align="center">
-   How do I know if it's any good?
-</h2>
-
+Go to release and download it all credit goes to (https://github.com/HumanDuck23/duck-dueller-v2)
 Here's a demonstration video of the bot playing sumo: [Introducing Duck Dueller](https://www.youtube.com/watch?v=4939onPBd4Y).
 Videos of the other modes will also be released at some point.
-
-<h2 align="center">
-   Can I contribute?
-</h2>
-Sure! Any contributions are greatly appreciated! Just fork this repo and open a pull request with your changes.
-
-<hr/>
-
-Duck Dueller now has a discord server! Join it [here](https://discord.gg/aZZ4UKEnTn)!
